@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Shukla_Project1.2\bin\Debug\Shukla_Project1.2.exe.config
+C:\Users\user\source\repos\Shukla_Project1.2\bin\Debug\Shukla_Project1.2.exe
+C:\Users\user\source\repos\Shukla_Project1.2\bin\Debug\Shukla_Project1.2.pdb
+C:\Users\user\source\repos\Shukla_Project1.2\obj\Debug\Shukla_Project1.2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Shukla_Project1.2\obj\Debug\Shukla_Project1.2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shukla_Project1.2\obj\Debug\Shukla_Project1.2.exe
+C:\Users\user\source\repos\Shukla_Project1.2\obj\Debug\Shukla_Project1.2.pdb
