@@ -42,6 +42,7 @@ DETAILS:
 		Numbers(1..N) – when you type number and press enter, product with same index need to add to cart;
 
 
+	**I have completed the task using Variant 3
 
 	UML Diagrams:
 Variant 1: https://drive.google.com/file/d/1HfhRs3IA0GLTv3BOdgr2qa5hnyt4cIMl/view?usp=sharing
